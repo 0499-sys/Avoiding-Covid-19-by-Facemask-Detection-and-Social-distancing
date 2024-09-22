@@ -47,7 +47,7 @@ The **Facemask-Detection-and-Social-distancing** is an automated solution design
 ### 4. Public Spaces
 - Applicable in various settings, including shopping malls, metro stations, temples, and other crowded areas to enhance overall public safety.
 
-##Results
+## Results
 
 ![image](https://github.com/user-attachments/assets/6933b57c-ff5f-489a-8944-1ff46a12b9e7)
 
